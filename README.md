@@ -21,3 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/Gitlab-232F3E?style=flat-square&logo=GitLab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=thefjs14&4&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefjs14)](https://github.com/anuraghazra/github-readme-stats)
