@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on [Fighty](https://fighty.es/) and [Salado.me](https://salado.me/).
-- 📫 You can reach me on [Instagram](https://instagram.com/salado_,e
+- 📫 You can reach me on [Instagram](https://instagram.com/salado_me)
 
 ## ⚡ Technologies
 
