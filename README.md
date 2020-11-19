@@ -23,5 +23,5 @@
 ![GitLab](https://img.shields.io/badge/Gitlab-232F3E?style=flat-square&logo=GitLab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=thefjs14&4&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=thefjs14&4&count_private=true" />
 
