@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Vue](https://img.shields.io/badge/vue-3-green.svg)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
@@ -24,4 +25,3 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=thefjs14&4&count_private=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thefjs14)](https://github.com/anuraghazra/github-readme-stats)
