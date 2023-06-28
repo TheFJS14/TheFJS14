@@ -1,8 +1,9 @@
 # Hi. I'm Jesús Salado
 
 
-- 🔭 I’m currently working on [Fighty](https://fighty.es/) and [Salado.me](https://salado.me/).
-- 📫 You can reach me on [Instagram](https://linkedin.com/in/thefjs14)
+- 🔭 I’m currently working on [Salado.me](https://salado.me/).
+- Previously on [Fighty](https://fighty.es/)
+- 📫 You can reach me on [LinkedIn](https://linkedin.com/in/thefjs14)
 
 ## ⚡ Technologies
 
